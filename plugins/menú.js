@@ -61,7 +61,7 @@ readmore: readMore
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 let str = `
 
-┌「✨𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓💫」
+┌「✨bot hades💫」
 │◦➛╭────────────
 │◦➛│๖ۜ͜𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${name}💖✨ 
 │◦➛│⌚𝐓𝐈𝐄𝐌𝐏𝐎 𝐀𝐂𝐓𝐈𝐕𝐎 ${uptime}
